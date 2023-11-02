@@ -1,4 +1,4 @@
-# Char Digit Recognition - CNN 
+# Character and Digit Recognition - CNN 
 
 Handwritten character and Digit recognition is a fundamental problem in the field of computer vision and machine learning.
 This Project explores the use of Convolution Neural Network (CNNs) to recognize and classify handwritten character and digits.
